@@ -1,0 +1,35 @@
+C:\Users\Matei\source\repos\IP Proiect\bin\Debug\IP Proiect.exe.config
+C:\Users\Matei\source\repos\IP Proiect\bin\Debug\IP Proiect.exe
+C:\Users\Matei\source\repos\IP Proiect\bin\Debug\IP Proiect.pdb
+C:\Users\Matei\source\repos\IP Proiect\obj\Debug\IP Proiect.csproj.AssemblyReference.cache
+C:\Users\Matei\source\repos\IP Proiect\obj\Debug\IP_Proiect.Form1.resources
+C:\Users\Matei\source\repos\IP Proiect\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Users\Matei\source\repos\IP Proiect\obj\Debug\IP Proiect.csproj.GenerateResource.cache
+C:\Users\Matei\source\repos\IP Proiect\obj\Debug\IP Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Matei\source\repos\IP Proiect\obj\Debug\IP Proiect.exe
+C:\Users\Matei\source\repos\IP Proiect\obj\Debug\IP Proiect.pdb
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\bin\Debug\IP Proiect.exe.config
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\bin\Debug\IP Proiect.exe
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\bin\Debug\IP Proiect.pdb
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP Proiect.csproj.AssemblyReference.cache
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP_Proiect.Form1.resources
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP Proiect.csproj.GenerateResource.cache
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP Proiect.exe
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP Proiect.pdb
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\obj\Debug\IP Proiect.csproj.AssemblyReference.cache
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\obj\Debug\IP_Proiect.Form1.resources
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\obj\Debug\IP_Proiect.Properties.Resources.resources
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\obj\Debug\IP Proiect.csproj.GenerateResource.cache
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\obj\Debug\IP Proiect.csproj.CoreCompileInputs.cache
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\obj\Debug\IP Proiect.exe
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\obj\Debug\IP Proiect.pdb
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\bin\Debug\IP Proiect.exe.config
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\bin\Debug\IP Proiect.exe
+G:\Facultate\An3\semestru2\Project-IP\ProiectIP\bin\Debug\IP Proiect.pdb
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\IP Proiect.csproj.ResolveComReference.cache
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\bin\Debug\Interop.WMPLib.dll
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Matei\source\repos\PROIECT IPP\ProiectIP\obj\Debug\AxInterop.WMPLib.dll
